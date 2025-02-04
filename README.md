@@ -2,7 +2,13 @@
 
 ## 🔍 Overview
 This project analyzes 📱 mobile sales data using interactive dashboards. The analysis includes key performance metrics such as total sales, quantity sold, transactions, and average price. It also provides insights based on city-wise sales, brand-wise performance, payment methods, and ratings.
-(assets/1.png)
+## 🖼️ Screenshots
+Below are some key dashboard views:
+- **📊 Overall Sales Dashboard** ![Dashboard1](assets/1.png.png)
+- **📅 MTD Sales Report** ![Dashboard2](assets/2.png.png)
+- **📆 Year-over-Year Sales Comparison** ![Dashboard3](assets/3.png.png)
+- ## 📬 Contact
+
 ## 📈 Key Metrics
 - **💰 Total Sales:** 769M
 - **📦 Total Quantity Sold:** 19K
@@ -40,13 +46,6 @@ This project analyzes 📱 mobile sales data using interactive dashboards. The a
 
 ## 🎯 Conclusion
 This analysis provides a detailed understanding of 📱 mobile sales trends, customer preferences, and transaction behaviors. It helps businesses make data-driven decisions for improving sales strategies.
-
-## 🖼️ Screenshots
-Below are some key dashboard views:
-- **📊 Overall Sales Dashboard** ![Dashboard1](assets/1.png)
-- **📅 MTD Sales Report** ![Dashboard2](assets/2.png)
-- **📆 Year-over-Year Sales Comparison** ![Dashboard3](assets/3.png)
-- ## 📬 Contact
 
 For questions or feedback, feel free to contact:
 
